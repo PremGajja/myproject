@@ -1,0 +1,3 @@
+Hi This is a Git file
+this is a sample file for practice
+thank you
